@@ -46,3 +46,5 @@ Backend:
 <hr>
 
 ## Resources
+
+https://docs.cypress.io/guides/getting-started/installing-cypress
