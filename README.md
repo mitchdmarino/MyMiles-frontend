@@ -38,6 +38,8 @@ Backend:
 ## Development Process
 
 ### Style guide
+Standard.js
+
 
 ### Testing
 
@@ -47,4 +49,5 @@ Backend:
 
 ## Resources
 
-https://docs.cypress.io/guides/getting-started/installing-cypress
+https://docs.cypress.io/
+https://standardjs.com/index.html
