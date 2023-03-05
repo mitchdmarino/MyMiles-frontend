@@ -38,5 +38,8 @@
   "devDependencies": {
     "cypress": "^12.7.0",
     "standard": "^17.0.0"
+  },
+  "standard": {
+    "globals": ["cy", "it", "describe", "expect"]
   }
 }

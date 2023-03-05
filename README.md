@@ -50,4 +50,5 @@ Standard.js
 ## Resources
 
 https://docs.cypress.io/
+
 https://standardjs.com/index.html
